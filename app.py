@@ -273,4 +273,4 @@ with c3:
     fig.update_layout(barmode="stack", title="Income Mix %", yaxis_range=[0, 100])
     st.plotly_chart(fig, use_container_width=True)
 
-in this the date is not taking IST, whilte saving data to google sheet
+
